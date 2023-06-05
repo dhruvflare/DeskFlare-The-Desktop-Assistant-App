@@ -1,17 +1,16 @@
 # imports
-# import pyaudio
 import speech_recognition as sr
-# import wikipedia
+import wikipedia
 import win32com.client
 import webbrowser
-# import openai
 import AppOpener
 import datetime
+import textwrap
 
-import wikipedia
-
+# speaker setup
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
 
+# world variables
 sites = [
     ["youtube", "https://www.youtube.com/"],
     ["google", "https://www.google.com/"],
@@ -25,6 +24,7 @@ apps = [
 ]
 
 
+# all functions
 def say(text):
     speaker.Speak(text)
 
@@ -40,7 +40,7 @@ def take_command(lan='en-us'):
             return query
 
         except Exception:
-            say("Could not recognise, please say again...")
+            print("Could not recognise, please say again...")
             return " "
 
 
@@ -50,10 +50,11 @@ def main():
     language = 'en-us'
     while True:
 
-        if text.lower() != " ":
+        if text.lower() == " ":
+            text = "unrecognised"
             continue
 
-        elif text.lower() != "exit":
+        elif text.lower() == "exit":
             break
 
         elif text.lower() == 'speak hindi':
@@ -84,24 +85,34 @@ def main():
             say(f"sir, the time is {timeval}")
 
         elif "what is" in text.lower():
-            buffer = text.lower().partition('what is')
-            q = buffer[2]
-            # print(wikipedia.summary(q, sentences=2))
-            say(wikipedia.summary(q, sentences=5))
+            try:
+                buffer = text.lower().partition('what is')
+                q = buffer[2]
+                wiki = wikipedia.summary(q, sentences=5)
+                wrapper = textwrap.TextWrapper(width=70)
+                string = wrapper.fill(text=wiki)
+                print(string)
+                say(wikipedia.summary(q, sentences=2))
+            except Exception:
+                say("sorry, i could not find anything")
 
         elif "who is" in text.lower():
-            buffer = text.lower().partition('who is')
-            q = buffer[2]
-            # print(wikipedia.summary(q, sentences=2))
-            say(wikipedia.summary(q, sentences=5))
+            try:
+                buffer = text.lower().partition('who is')
+                q = buffer[2]
+                wiki = wikipedia.summary(q, sentences=5)
+                wrapper = textwrap.TextWrapper(width=70)
+                string = wrapper.fill(text=wiki)
+                print(string)
+                say(wikipedia.summary(q, sentences=2))
+            except Exception:
+                say("sorry, i could not find anything")
 
         elif "what is your name" in text.lower():
             say("my name is deskFlare AI")
 
-
         elif "what is your age" in text.lower():
             say("I am a bot, i am not a human")
-
 
         elif "what is your gender" in text.lower() or "what is your profession" in text.lower():
             say("I am a bot, i am not a human")
