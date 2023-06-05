@@ -4,9 +4,21 @@ import speech_recognition as sr
 # import wikipedia
 import win32com.client
 import webbrowser
-import openai
+# import openai
+import AppOpener
+import datetime
 
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
+
+sites = [
+                ["youtube", "https://www.youtube.com/"],
+                ["google", "https://www.google.com/"],
+                ["mail", "https://mail.google.com/mail/u/0/#inbox"]
+            ]
+apps = [
+    "spotify",
+    "discord"
+]
 
 
 def say(text):
@@ -16,14 +28,14 @@ def say(text):
 def take_command(lan='en-us'):
     r = sr.Recognizer()
     with sr.Microphone() as source:
-        r.pause_threshold = 2
+        r.pause_threshold = 1
         audio = r.listen(source)
         try:
             query = r.recognize_google(audio, language=lan)
             print(f'user said {query}')
             return query
 
-        except Exception as e:
+        except Exception:
             return "Could not recognise, please say again..."
 
 
@@ -50,24 +62,19 @@ def main():
 
         elif "open" in text.lower():
 
-            sites = [
-                ["youtube", "https://www.youtube.com/"],
-                ["google", "https://www.google.com/"],
-                ["mail", "https://mail.google.com/mail/u/0/#inbox"]
-                # ["youtube", "https://www.youtube.com/"],
-            ]
+            for site in sites:
+                if f"open {site[0]}" in text.lower():
+                    say(f"opening {site[0]} sir")
+                    webbrowser.open(site[1])
 
-            if "open youtube" in text.lower():
-                say("opening youtube sir")
-                webbrowser.open("https://www.youtube.com/")
+            for app in apps:
+                if f"open {app}" in text.lower():
+                    say(f"opening {app} sir")
+                    AppOpener.open(app)
 
-            elif "open google" in text.lower():
-                say("opening google sir")
-                webbrowser.open("https://www.google.com/")
-
-            elif "open mail" in text.lower():
-                say("opening mail sir")
-                webbrowser.open("https://mail.google.com/mail/u/0/#inbox")
+        elif "the time" in text.lower():
+            timeval = datetime.datetime.now().strftime("%H:%M")
+            say(f"sir, the time is {timeval}")
 
         print(f"listening..[{language}]")
         text = take_command(lan=language)
