@@ -8,13 +8,15 @@ import webbrowser
 import AppOpener
 import datetime
 
+import wikipedia
+
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
 
 sites = [
-                ["youtube", "https://www.youtube.com/"],
-                ["google", "https://www.google.com/"],
-                ["mail", "https://mail.google.com/mail/u/0/#inbox"],
-                ["chatgpt", "https://chat.openai.com/"]
+    ["youtube", "https://www.youtube.com/"],
+    ["google", "https://www.google.com/"],
+    ["mail", "https://mail.google.com/mail/u/0/#inbox"],
+    ["chatgpt", "https://chat.openai.com/"]
 ]
 
 apps = [
@@ -80,6 +82,21 @@ def main():
         elif "the time" in text.lower():
             timeval = datetime.datetime.now().strftime("%H:%M")
             say(f"sir, the time is {timeval}")
+
+        elif "what is" in text.lower():
+            buffer = text.lower().partition('what is')
+            q = buffer[2]
+            # print(wikipedia.summary(q, sentences=2))
+            say(wikipedia.summary(q, sentences=5))
+
+        elif "who is" in text.lower():
+            buffer = text.lower().partition('who is')
+            q = buffer[2]
+            # print(wikipedia.summary(q, sentences=2))
+            say(wikipedia.summary(q, sentences=5))
+
+        elif "what is your name" in text.lower():
+            say("my name is deskFlare AI")
 
         print(f"listening..[{language}]")
         text = take_command(lan=language)
