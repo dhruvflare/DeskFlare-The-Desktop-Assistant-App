@@ -19,7 +19,7 @@ sites = [
 
 apps = [
     "spotify",
-    "discord",
+    "discord"
 ]
 
 
@@ -30,7 +30,7 @@ def say(text):
 def take_command(lan='en-us'):
     r = sr.Recognizer()
     with sr.Microphone() as source:
-        r.pause_threshold = 1
+        r.pause_threshold = 0.8
         audio = r.listen(source)
         try:
             query = r.recognize_google(audio, language=lan)
@@ -38,24 +38,31 @@ def take_command(lan='en-us'):
             return query
 
         except Exception:
-            return "Could not recognise, please say again..."
+            say("Could not recognise, please say again...")
+            return " "
 
 
 def main():
     say('hello i am deskFlare AI')
     text = ''
     language = 'en-us'
-    while text.lower() != "exit":
+    while True:
 
-        if text.lower() == 'speak hindi':
+        if text.lower() != " ":
+            continue
+
+        elif text.lower() != "exit":
+            break
+
+        elif text.lower() == 'speak hindi':
             language = 'en-in'
 
         elif text.lower() == 'speak english':
             language = 'en-us'
 
         elif "search for" in text.lower():
-            buffer = text.lower().split('search for ')
-            q = buffer[1]
+            buffer = text.lower().partition('search for')
+            q = buffer[2]
             webbrowser.open(f"https://www.google.com/search?q={q}")
 
         elif "open" in text.lower():
@@ -76,7 +83,6 @@ def main():
 
         print(f"listening..[{language}]")
         text = take_command(lan=language)
-        # say(text)
 
 
 if __name__ == '__main__':
