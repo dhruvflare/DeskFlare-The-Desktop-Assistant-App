@@ -98,6 +98,14 @@ def main():
         elif "what is your name" in text.lower():
             say("my name is deskFlare AI")
 
+
+        elif "what is your age" in text.lower():
+            say("I am a bot, i am not a human")
+
+
+        elif "what is your gender" in text.lower() or "what is your profession" in text.lower():
+            say("I am a bot, i am not a human")
+
         print(f"listening..[{language}]")
         text = take_command(lan=language)
 
