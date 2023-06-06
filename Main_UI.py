@@ -6,6 +6,7 @@ import webbrowser
 import AppOpener
 import datetime
 import textwrap
+import requests
 
 # speaker setup
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
@@ -23,6 +24,32 @@ apps = [
     "discord"
 ]
 
+
+
+def get_weather(location = "New Delhi, Delhi"):
+    params = {
+        'access_key': '864b4eae76492fc120c2709e2bfa112a',
+        'query': location
+    }
+    api_result = requests.get('http://api.weatherstack.com/current', params)
+    api_response = api_result.json()
+    print(api_response)
+    a = f"Current temperature in {api_response['location']['name']} is {api_response['current']['temperature']}℃"
+    print(a)
+    say(a)
+
+def get_precipitation_chance(location = "New Delhi, Delhi"):
+
+    params = {
+        'access_key': '864b4eae76492fc120c2709e2bfa112a',
+        'query': location
+    }
+    api_result = requests.get('http://api.weatherstack.com/current', params)
+    api_response = api_result.json()
+    print(api_response)
+    a = f"Chance of rain in {api_response['location']['name']} is {api_response['hourly']['chanceofrain']}%"
+    print(a)
+    say(a)
 
 # all functions
 def say(text):
@@ -62,6 +89,26 @@ def main():
 
         elif text.lower() == 'speak english':
             language = 'en-us'
+
+        elif "what is your name" in text.lower():
+            say("my name is deskFlare AI")
+
+        elif "what is your age" in text.lower():
+            say("I am a bot, i am not a human")
+
+        elif "current weather" in text.lower():
+            get_weather()
+
+        elif "weather in" in text.lower():
+            buffer = text.lower().partition('weather in')
+            q = buffer[2]
+            get_weather(location=q)
+
+        elif "chance of rain" in text.lower():
+            get_precipitation_chance()
+
+        elif "what is your gender" in text.lower() or "what is your profession" in text.lower():
+            say("I am a bot, i am not a human")
 
         elif "search for" in text.lower():
             buffer = text.lower().partition('search for')
@@ -108,18 +155,120 @@ def main():
             except Exception:
                 say("sorry, i could not find anything")
 
-        elif "what is your name" in text.lower():
-            say("my name is deskFlare AI")
 
-        elif "what is your age" in text.lower():
-            say("I am a bot, i am not a human")
 
-        elif "what is your gender" in text.lower() or "what is your profession" in text.lower():
-            say("I am a bot, i am not a human")
 
         print(f"listening..[{language}]")
         text = take_command(lan=language)
 
 
+
 if __name__ == '__main__':
     main()
+
+
+
+
+'''sample api responses'''
+
+'''weatherstack api'''
+# {
+#     "request": {
+#         "type": "City",
+#         "query": "New York, United States of America",
+#         "language": "en",
+#         "unit": "m"
+#     },
+#     "location": {
+#         "name": "New York",
+#         "country": "United States of America",
+#         "region": "New York",
+#         "lat": "40.714",
+#         "lon": "-74.006",
+#         "timezone_id": "America/New_York",
+#         "localtime": "2019-09-07 10:05",
+#         "localtime_epoch": 1567850700,
+#         "utc_offset": "-4.0"
+#     },
+#     "current": {
+#         "observation_time": "02:05 PM",
+#         "temperature": 15,
+#         "weather_code": 113,
+#         "weather_icons": [
+#             "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+#         ],
+#         "weather_descriptions": [
+#             "Sunny"
+#         ],
+#         "wind_speed": 0,
+#         "wind_degree": 0,
+#         "wind_dir": "N",
+#         "pressure": 1011,
+#         "precip": 0,
+#         "humidity": 78,
+#         "cloudcover": 0,
+#         "feelslike": 15,
+#         "uv_index": 5,
+#         "visibility": 16
+#     },
+#     "historical": {
+#         "2008-07-01": {
+#             "date": "2008-07-01",
+#             "date_epoch": 1214870400,
+#             "astro": {
+#                 "sunrise": "05:29 AM",
+#                 "sunset": "08:31 PM",
+#                 "moonrise": "03:24 AM",
+#                 "moonset": "07:37 PM",
+#                 "moon_phase": "Waning Crescent",
+#                 "moon_illumination": 4
+#             },
+#             "mintemp": 0,
+#             "maxtemp": 0,
+#             "avgtemp": 19,
+#             "totalsnow": 0,
+#             "sunhour": 14.5,
+#             "uv_index": 4,
+#             "hourly": [
+#                 {
+#                     "time": "0",
+#                     "temperature": 27,
+#                     "wind_speed": 7,
+#                     "wind_degree": 201,
+#                     "wind_dir": "SSW",
+#                     "weather_code": 113,
+#                     "weather_icons": [
+#                         "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+#                     ],
+#                     "weather_descriptions": [
+#                         "Sunny"
+#                     ],
+#                     "precip": 1.8,
+#                     "humidity": 80,
+#                     "visibility": 9,
+#                     "pressure": 1011,
+#                     "cloudcover": 15,
+#                     "heatindex": 25,
+#                     "dewpoint": 20,
+#                     "windchill": 24,
+#                     "windgust": 11,
+#                     "feelslike": 25,
+#                     "chanceofrain": 0,
+#                     "chanceofremdry": 0,
+#                     "chanceofwindy": 0,
+#                     "chanceofovercast": 0,
+#                     "chanceofsunshine": 0,
+#                     "chanceoffrost": 0,
+#                     "chanceofhightemp": 0,
+#                     "chanceoffog": 0,
+#                     "chanceofsnow": 0,
+#                     "chanceofthunder": 0,
+#                     "uv_index": 6
+#                 },
+#                 {   "time": "300", ...   },
+#                 {   "time": "600", ...   },
+#                 // 6 more items
+#             ]
+#         }
+#     }
+# }
