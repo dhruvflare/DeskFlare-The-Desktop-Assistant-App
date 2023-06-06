@@ -72,7 +72,7 @@ def take_command(lan='en-us'):
 
 
 def main():
-    say('hello i am deskFlare AI')
+    say('hello, i am DeskFlare AI')
     text = ''
     language = 'en-us'
     while True:
