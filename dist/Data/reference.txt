@@ -1,0 +1,407 @@
+
+Name                                                         AppID                                                                                                                                 
+----                                                         -----                                                                                                                                 
+Adobe Creative Cloud                                         Adobe.CreativeCloud                                                                                                                   
+Avast Free Antivirus                                         avast! Antivirus                                                                                                                      
+Avast Secure Browser                                         Avast_Secure_Browser                                                                                                                  
+Sifu                                                         C:\Games\Sifu\Sifu.exe                                                                                                                
+== ElAmigos Releases and Updates @ official site ==          C:\Games\Sifu\_ElAmigos Releases and Updates.url                                                                                      
+MinGW Installation Manager                                   C:\MinGW\libexec\mingw-get\guimain.exe                                                                                                
+Riot Client                                                  C:\Riot Games\Riot Client\RiotClientServices.exe                                                                                      
+Citra Nightly                                                C:\Users\dhruv\AppData\Local\Citra\nightly-mingw\citra-qt.exe                                                                         
+Android Studio                                               C:\Users\dhruv\AppData\Local\JetBrains\Toolbox\apps\AndroidStudio\ch-0\222.4459.24.2221.10121639\bin\studio64.exe                     
+IntelliJ IDEA Community Edition                              C:\Users\dhruv\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\231.9011.34\bin\idea64.exe                                            
+PyCharm Community                                            C:\Users\dhruv\AppData\Local\JetBrains\Toolbox\apps\PyCharm-C\ch-0\231.9011.38\bin\pycharm64.exe                                      
+JetBrains Toolbox                                            C:\Users\dhruv\AppData\Local\JetBrains\Toolbox\bin\jetbrains-toolbox.exe                                                              
+Python 3.10 (64-bit)                                         C:\Users\dhruv\AppData\Local\Programs\Python\Python310\python.exe                                                                     
+Python 3.9 (64-bit)                                          C:\Users\dhruv\AppData\Local\Programs\Python\Python39\python.exe                                                                      
+yuzu Maintenance Tool                                        C:\Users\dhruv\AppData\Local\yuzu\maintenancetool.exe                                                                                 
+TLauncher                                                    C:\Users\dhruv\AppData\Roaming\.minecraft\TLauncher.exe                                                                               
+Spotify                                                      C:\Users\dhruv\AppData\Roaming\Spotify\Spotify.exe                                                                                    
+Uninstall Telegram                                           C:\Users\dhruv\AppData\Roaming\Telegram Desktop\unins001.exe                                                                          
+uTorrent Web                                                 C:\Users\dhruv\AppData\Roaming\uTorrent Web\utweb.exe                                                                                 
+?Torrent                                                     C:\Users\dhruv\AppData\Roaming\uTorrent\uTorrent.exe                                                                                  
+Citra Canary                                                 C:\Users\dhruv\OneDrive\Desktop\mystuff\citra\canary-mingw\citra-qt.exe                                                               
+Google Chrome                                                Chrome                                                                                                                                
+YouTube                                                      Chrome._crx_agimnkijcamfeangaknmldooml                                                                                                
+Google Meet                                                  Chrome._crx_kjgfgldnnffkjfagphfepbbdan                                                                                                
+Google Chat                                                  Chrome._crx_mdpkiolbdkfbkbmhigcaggjagi                                                                                                
+Diffchecker                                                  com.checkersoftware.diffchecker                                                                                                       
+Discord Bot Client                                           com.electron.discord-bot-client                                                                                                       
+Guilded                                                      com.electron.Guilded                                                                                                                  
+Discord                                                      com.squirrel.Discord.Discord                                                                                                          
+GitHub Desktop                                               com.squirrel.GitHubDesktop.GitHubDesktop                                                                                              
+Sourcetree                                                   com.squirrel.SourceTree.SourceTree                                                                                                    
+Microsoft Teams (work or school)                             com.squirrel.Teams.Teams                                                                                                              
+WhatsApp                                                     com.squirrel.WhatsApp.WhatsApp                                                                                                        
+Streamlabs OBS                                               com.streamlabs.slobs                                                                                                                  
+Unity Hub                                                    com.unity3d.unityhub                                                                                                                  
+Eclipse IDE for Enterprise Java and Web Developers - 2023-03 D:\eclipse\jee-2023-03\eclipse\eclipse.exe                                                                                            
+mGBA                                                         D:\Games\mGBA\mGBA.exe                                                                                                                
+Pentablet                                                    D:\Graphic pad\Pentablet\PenTablet.exe                                                                                                
+Resource Hacker                                              D:\Resource Hacker\ResourceHacker.exe                                                                                                 
+Documentation                                                D:\VLC\Documentation.url                                                                                                              
+Release Notes                                                D:\VLC\NEWS.txt                                                                                                                       
+VideoLAN Website                                             D:\VLC\VideoLAN Website.url                                                                                                           
+VLC media player                                             D:\VLC\vlc.exe                                                                                                                        
+Docker Desktop                                               Docker.DockerForWindows.Settings                                                                                                      
+Free Download Manager                                        FreeDownloadManager                                                                                                                   
+Git for Windows                                              GitForWindows.Updater                                                                                                                 
+Uninstall Greenshot                                          Greenshot.Greenshot                                                                                                                   
+Welcome                                                      http://127.0.0.1:8080/                                                                                                                
+Tomcat Manager                                               http://127.0.0.1:8080/manager/html                                                                                                    
+Reference Documentation                                      http://docs.oracle.com/javase/20/index.html                                                                                           
+Visit Java.com                                               http://java.com/                                                                                                                      
+Get Help                                                     http://java.com/help                                                                                                                  
+Guild Wars 2 Support Web Site                                http://support.guildwars2.com/                                                                                                        
+Steam Support Center                                         http://support.steampowered.com/                                                                                                      
+Unity Release Notes                                          http://unity3d.com/whatsnew.html                                                                                                      
+vJoy SDK                                                     http://vjoystick.sourceforge.net/redirect_download_vJoy2SDK.php                                                                       
+vJoy Home                                                    http://vjoystick.sourceforge.net/site                                                                                                 
+CCleaner Homepage                                            http://www.ccleaner.com/ccleaner                                                                                                      
+UltraISO Web Site                                            http://www.ezbsystems.com/index.php                                                                                                   
+UltraISO Online Order                                        http://www.ezbsystems.com/ultraiso/order.htm                                                                                          
+Support                                                      http://www.gog.com/support/the_witcher_3_wild_hunt                                                                                    
+Support                                                      http://www.gog.com/support/undertale                                                                                                  
+Guild Wars 2 Web Site                                        http://www.guildwars2.com/                                                                                                            
+Program site                                                 http://www.rapidtyping.com                                                                                                            
+Visit LAV Filters Home Page                                  https://1f0.de/                                                                                                                       
+Get Involved                                                 https://calibre-ebook.com/get-involved                                                                                                
+Visit LAV Filters on Doom9                                   https://forum.doom9.org/showthread.php?t=156191                                                                                       
+Git FAQs (Frequently Asked Questions)                        https://github.com/git-for-windows/git/wiki/FAQ                                                                                       
+User Manual                                                  https://manual.calibre-ebook.com/                                                                                                     
+Donate                                                       https://mh-nexus.de/donate.php                                                                                                        
+Website                                                      https://mh-nexus.de/hxd/                                                                                                              
+Tomcat Home Page                                             https://tomcat.apache.org/                                                                                                            
+Intel Driver & Support Assistant                             Intel.Dsa.Tray                                                                                                                        
+License Download                                             Microsoft.AutoGenerated.{0108EC2E-5A02-4DD8-290F-35C4718F788A}                                                                        
+x86_x64 Cross Tools Command Prompt for VS 2019               Microsoft.AutoGenerated.{0414A7DE-798D-5055-3B34-5137370957E5}                                                                        
+REAPER (x64) (create new project)                            Microsoft.AutoGenerated.{0825368E-F46A-0126-9C99-5BD759DB2AAF}                                                                        
+My Printer                                                   Microsoft.AutoGenerated.{0C3B0F30-367C-4E37-3C92-7BACB3A1E241}                                                                        
+REAPER (x64) (ReWire client mode)                            Microsoft.AutoGenerated.{0DB9BAA0-7962-BD0E-5D71-10728F83E3CD}                                                                        
+Git Bash                                                     Microsoft.AutoGenerated.{0FDD9C6B-656B-0F1F-AB08-B1CDBB7067B3}                                                                        
+REAPER (x64) (reset configuration to factory defaults)       Microsoft.AutoGenerated.{10A99C5B-35AB-4BD2-343A-4D5E08FAC32B}                                                                        
+LAV Audio Configuration                                      Microsoft.AutoGenerated.{1BBC37D1-585E-51CC-DACB-2BAEFC7FD021}                                                                        
+TortoiseGit                                                  Microsoft.AutoGenerated.{1D56C99A-ECD8-7C3D-32B6-5F79EA0EEB91}                                                                        
+LAV Splitter Configuration                                   Microsoft.AutoGenerated.{208B81F3-2D81-5EB2-BBF5-F2DFE2DFDA51}                                                                        
+x86 Native Tools Command Prompt for VS 2019                  Microsoft.AutoGenerated.{2654B675-D6DB-7D88-F6AB-DF25290F3579}                                                                        
+Git CMD                                                      Microsoft.AutoGenerated.{29591C0F-7C09-B655-C0EB-8544FCA7D1DE}                                                                        
+MySQL Installer - Community                                  Microsoft.AutoGenerated.{2C7C9013-A7FD-5C12-D811-939AFE2A3592}                                                                        
+Windows Software Development Kit                             Microsoft.AutoGenerated.{3B6E7DF3-19A3-70DB-96F6-86E65A17E61C}                                                                        
+Learning Lodge?                                              Microsoft.AutoGenerated.{3DF20308-CB3C-D63D-CAE1-D119F7E66578}                                                                        
+REAPER (x64) (show audio configuration on startup)           Microsoft.AutoGenerated.{3FC912E1-70CC-EF1C-CF6A-45F46FCF3E8C}                                                                        
+LAV Video Configuration                                      Microsoft.AutoGenerated.{475F1C74-240F-7BE2-5A8C-26C8D08E5946}                                                                        
+Python 3.9 Manuals (64-bit)                                  Microsoft.AutoGenerated.{48B845B9-7231-A5FA-8641-7C6586F7AF60}                                                                        
+Developer Command Prompt for VS 2019                         Microsoft.AutoGenerated.{4BEA08D7-78E4-19AC-6B39-FA0525BA34FB}                                                                        
+Google Docs                                                  Microsoft.AutoGenerated.{4F320C6D-566B-A328-A366-1EC51BD74B62}                                                                        
+yuzu                                                         Microsoft.AutoGenerated.{522941E8-C65B-9CA0-999F-DFCCFA33D202}                                                                        
+Uninstall MuseScore                                          Microsoft.AutoGenerated.{593DF23B-6BEA-359D-5F5F-E982DB32C2DE}                                                                        
+VLC media player skinned                                     Microsoft.AutoGenerated.{6DE1DBCE-B674-BE72-EDB2-3B301067274F}                                                                        
+Python 3.10 Module Docs (64-bit)                             Microsoft.AutoGenerated.{77371032-087C-8CDD-5BCB-D553A56FF74C}                                                                        
+Developer PowerShell for VS 2019                             Microsoft.AutoGenerated.{7E7691AF-4108-3EC0-3F1E-D1FF168C366F}                                                                        
+Performance Monitor                                          Microsoft.AutoGenerated.{8AA47365-B2B3-1961-69EB-F866E376B12F}                                                                        
+Computer Management                                          Microsoft.AutoGenerated.{8ABD94FB-E7D6-84A6-A997-C918EDDE0AE5}                                                                        
+Settings                                                     Microsoft.AutoGenerated.{8E66BD49-EE30-5B64-E59D-4838E1A8063F}                                                                        
+Task Manager                                                 Microsoft.AutoGenerated.{923DD477-5846-686B-A659-0FCCD73851A8}                                                                        
+Uninstall                                                    Microsoft.AutoGenerated.{94331AE1-D7EF-C7CE-D105-5595DA181475}                                                                        
+Debuggable Package Manager                                   Microsoft.AutoGenerated.{96690F80-0B7F-841E-E0DB-CC38AC5C839F}                                                                        
+Help                                                         Microsoft.AutoGenerated.{98FEBB2C-01AB-4A97-FCA1-9B74D52A119E}                                                                        
+x64 Native Tools Command Prompt for VS 2019                  Microsoft.AutoGenerated.{9B365F59-89F1-E362-DB92-31582A7073AD}                                                                        
+About Java                                                   Microsoft.AutoGenerated.{9F4F65B3-CD17-CDC7-508A-C13D4D078C02}                                                                        
+IDLE (Python 3.10 64-bit)                                    Microsoft.AutoGenerated.{A17C9151-AFB9-6AAB-0250-149A445DE84E}                                                                        
+Adobe Application Manager                                    Microsoft.AutoGenerated.{A423D12B-D7B1-CAF2-3434-2DE0F642FF34}                                                                        
+Google Slides                                                Microsoft.AutoGenerated.{A7FB06FF-C7BC-348A-F03A-1AB15C0664FB}                                                                        
+Python 3.9 Module Docs (64-bit)                              Microsoft.AutoGenerated.{B1725EFB-A10F-C3EC-2622-58194CA9C7DE}                                                                        
+MySQL 8.0 Command Line Client - Unicode                      Microsoft.AutoGenerated.{B6ECABB1-7A68-AC3C-1F61-8F8089041EDD}                                                                        
+Event Viewer                                                 Microsoft.AutoGenerated.{BB044BFD-25B7-2FAA-22A8-6371A93E0456}                                                                        
+Google Sheets                                                Microsoft.AutoGenerated.{BBD91EB3-B1EC-9260-5BB1-FAB2265F9FB5}                                                                        
+Task Scheduler                                               Microsoft.AutoGenerated.{C1C6F8AC-40A3-0F5C-146F-65A9DC70BBB4}                                                                        
+Check For Updates                                            Microsoft.AutoGenerated.{C3BF030E-BEDE-1122-5084-B50C65CFD2BC}                                                                        
+Resource Monitor                                             Microsoft.AutoGenerated.{C804BBA7-FA5F-CBF7-8B55-2096E5F972CB}                                                                        
+Uninstall Zoom                                               Microsoft.AutoGenerated.{D0CA3723-ED6C-D585-D525-84509274FE3C}                                                                        
+x64_x86 Cross Tools Command Prompt for VS 2019               Microsoft.AutoGenerated.{D5D581AD-E767-6346-954A-F8B2930D39F1}                                                                        
+Windows Speech Recognition                                   Microsoft.AutoGenerated.{DAA168DE-4306-C8BC-8C11-B596240BDDED}                                                                        
+RawCapConv NoPreview                                         Microsoft.AutoGenerated.{DDF42C71-4FEA-9EEE-ADC6-9454420C902D}                                                                        
+MySQL 8.0 Command Line Client                                Microsoft.AutoGenerated.{DF60CA8F-4884-F0EE-090A-264B39A0FD55}                                                                        
+Grammarly                                                    Microsoft.AutoGenerated.{DFC33E75-168E-EA4D-8B6F-22D648E6365C}                                                                        
+VLC media player - reset preferences and cache files         Microsoft.AutoGenerated.{E27158C0-1396-19FB-6F8D-93026F80EF0C}                                                                        
+DBeaver                                                      Microsoft.AutoGenerated.{ED458F60-B1C5-5703-9E56-D5A2BFA2D603}                                                                        
+Install movie codec                                          Microsoft.AutoGenerated.{F97138FB-D13B-9CE6-56DE-B1B209077459}                                                                        
+IDLE (Python 3.9 64-bit)                                     Microsoft.AutoGenerated.{FA541FBF-0D56-5BC4-8360-48073CBB7543}                                                                        
+OneDrive                                                     Microsoft.SkyDrive.Desktop                                                                                                            
+Skype                                                        Microsoft.Skype.SkypeDesktop                                                                                                          
+Visual Studio Installer                                      Microsoft.VisualStudio.Installer                                                                                                      
+Visual Studio Code                                           Microsoft.VisualStudioCode                                                                                                            
+Windows Tools                                                Microsoft.Windows.AdministrativeTools                                                                                                 
+Control Panel                                                Microsoft.Windows.ControlPanel                                                                                                        
+File Explorer                                                Microsoft.Windows.Explorer                                                                                                            
+Windows Media Player Legacy                                  Microsoft.Windows.MediaPlayer32                                                                                                       
+Remote Desktop Connection                                    Microsoft.Windows.RemoteDesktop                                                                                                       
+Run                                                          Microsoft.Windows.Shell.RunDialog                                                                                                     
+Microsoft Edge                                               MSEdge                                                                                                                                
+Opera GX Browser                                             OperaSoftware.OperaGXWebBrowser.1609664151                                                                                            
+AnyDesk                                                      prokzult ad                                                                                                                           
+Bridge                                                       se.quixel.bridge                                                                                                                      
+PuTTY                                                        SimonTatham.PuTTY                                                                                                                     
+ULTRAKILL                                                    steam://rungameid/1229490                                                                                                             
+Crab Game                                                    steam://rungameid/1782210                                                                                                             
+Blender                                                      steam://rungameid/365670                                                                                                              
+Spacewar                                                     steam://rungameid/480                                                                                                                 
+Satisfactory                                                 steam://rungameid/526870                                                                                                              
+Counter-Strike Global Offensive                              steam://rungameid/730                                                                                                                 
+Telegram                                                     Telegram.TelegramDesktop                                                                                                              
+Visual Studio 2019                                           VisualStudio.ddba895a                                                                                                                 
+Zoom                                                         zoom.us.Zoom Video Meetings                                                                                                           
+Application Verifier Help                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\appverif.chm                                                                                   
+Application Verifier (X64)                                   {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\appverif.exe                                                                                   
+Character Map                                                {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\charmap.exe                                                                                    
+Disk Cleanup                                                 {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cleanmgr.exe                                                                                   
+Command Prompt                                               {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe                                                                                        
+Component Services                                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\comexp.msc                                                                                     
+Defragment and Optimize Drives                               {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\dfrgui.exe                                                                                     
+iSCSI Initiator                                              {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\iscsicpl.exe                                                                                   
+Live captions                                                {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\LiveCaptions.exe                                                                               
+Magnifier                                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\magnify.exe                                                                                    
+Windows Memory Diagnostic                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\MdSched.exe                                                                                    
+System Configuration                                         {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msconfig.exe                                                                                   
+System Information                                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msinfo32.exe                                                                                   
+Narrator                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\narrator.exe                                                                                   
+ODBC Data Sources (64-bit)                                   {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\odbcad32.exe                                                                                   
+On-Screen Keyboard                                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\osk.exe                                                                                        
+Steps Recorder                                               {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\psr.exe                                                                                        
+Recovery Drive                                               {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\RecoveryDrive.exe                                                                              
+Services                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\services.msc                                                                                   
+Voice access                                                 {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\voiceaccess.exe                                                                                
+Windows Defender Firewall with Advanced Security             {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WF.msc                                                                                         
+Windows Fax and Scan                                         {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WFS.exe                                                                                        
+Windows PowerShell                                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe                                                          
+Windows PowerShell ISE                                       {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\PowerShell_ISE.exe                                                      
+7-Zip Help                                                   {6D809377-6AF0-444B-8957-A3773F02200E}\7-Zip\7-zip.chm                                                                                
+7-Zip File Manager                                           {6D809377-6AF0-444B-8957-A3773F02200E}\7-Zip\7zFM.exe                                                                                 
+Adobe Acrobat                                                {6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Acrobat DC\Acrobat\Acrobat.exe                                                           
+Adobe After Effects 2020                                     {6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Adobe After Effects 2020\Support Files\AfterFX.exe                                       
+Adobe Media Encoder 2020                                     {6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Adobe Media Encoder 2020\Adobe Media Encoder.exe                                         
+Adobe Photoshop 2020                                         {6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Adobe Photoshop 2020\Photoshop.exe                                                       
+AnthemScore                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\AnthemScore\AnthemScore.exe                                                                    
+CCleaner                                                     {6D809377-6AF0-444B-8957-A3773F02200E}\CCleaner\CCleaner64.exe                                                                        
+CLIP STUDIO                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\CLIPStudio.exe                                              
+Reset settings                                               {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\ceregreset.exe                                                                
+Cheat Engine                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\Cheat Engine.exe                                                              
+Cheat Engine (32-bit)                                        {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\cheatengine-i386.exe                                                          
+Cheat Engine (64-bit SSE4-AVX2)                              {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\cheatengine-x86_64-SSE4-AVX2.exe                                              
+Cheat Engine (64-bit)                                        {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\cheatengine-x86_64.exe                                                        
+Cheat Engine help                                            {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\CheatEngine.chm                                                               
+Unload kernel module                                         {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\Kernelmoduleunloader.exe                                                      
+Cheat Engine tutorial                                        {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\Tutorial-i386.exe                                                             
+Cheat Engine tutorial (64-bit)                               {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\Tutorial-x86_64.exe                                                           
+Uninstall Cheat Engine                                       {6D809377-6AF0-444B-8957-A3773F02200E}\Cheat Engine 7.2\unins000.exe                                                                  
+Uninstall                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\DBeaver\Uninstall.exe                                                                          
+Product Activation                                           {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\Activation.exe                                                        
+License Agreement                                            {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\License Agreement.rtf                                                 
+Readme                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\Readme.rtf                                                            
+VSDC Free Screen Recorder                                    {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\Tools\ScreenRecorder.exe                                              
+VSDC Free Video Capture                                      {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\Tools\VideoCapture.exe                                                
+Product Updater                                              {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\Updater.exe                                                           
+VSDC Free Video Editor Help                                  {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\VideoConverter.chm                                                    
+VSDC Free Video Editor                                       {6D809377-6AF0-444B-8957-A3773F02200E}\FlashIntegro\VideoEditor\VideoEditor.exe                                                       
+GIMP 2.10.30                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\GIMP 2\bin\gimp-2.10.exe                                                                       
+Git GUI                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\Git\cmd\git-gui.exe                                                                            
+Git Release Notes                                            {6D809377-6AF0-444B-8957-A3773F02200E}\Git\ReleaseNotes.html                                                                          
+Google Drive                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\Google\Drive File Stream\75.0.3.0\GoogleDriveFS.exe                                            
+Backup and Sync from Google                                  {6D809377-6AF0-444B-8957-A3773F02200E}\Google\Drive\googledrivesync.exe                                                               
+Greenshot                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\Greenshot\Greenshot.exe                                                                        
+License.txt                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\Greenshot\license.txt                                                                          
+Readme.txt                                                   {6D809377-6AF0-444B-8957-A3773F02200E}\Greenshot\readme.txt                                                                           
+Changelog                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\HxD\changelog.txt                                                                              
+HxD                                                          {6D809377-6AF0-444B-8957-A3773F02200E}\HxD\HxD.exe                                                                                    
+License                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\HxD\license.txt                                                                                
+Readme                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\HxD\readme.txt                                                                                 
+Configure Java                                               {6D809377-6AF0-444B-8957-A3773F02200E}\Java\jre1.8.0_251\bin\javacpl.exe                                                              
+Kite                                                         {6D809377-6AF0-444B-8957-A3773F02200E}\Kite\kited.exe                                                                                 
+LMMS                                                         {6D809377-6AF0-444B-8957-A3773F02200E}\LMMS\lmms.exe                                                                                  
+Team Render Client R21                                       {6D809377-6AF0-444B-8957-A3773F02200E}\Maxon Cinema 4D R21\Cinema 4D Team Render Client.exe                                           
+Team Render Server R21                                       {6D809377-6AF0-444B-8957-A3773F02200E}\Maxon Cinema 4D R21\Cinema 4D Team Render Server.exe                                           
+Maxon Cinema 4D R21                                          {6D809377-6AF0-444B-8957-A3773F02200E}\Maxon Cinema 4D R21\Cinema 4D.exe                                                              
+Commandline R21                                              {6D809377-6AF0-444B-8957-A3773F02200E}\Maxon Cinema 4D R21\Commandline.exe                                                            
+Microsoft Silverlight                                        {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Silverlight\5.1.50918.0\Silverlight.Configuration.exe                                
+SQL Server 2019 Import and Export Data (64-bit)              {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft SQL Server\150\DTS\Binn\DTSWizard.exe                                                
+SQL Server 2019 Master Data Services Configuration Manager   {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft SQL Server\150\Master Data Services\Configuration\MDSConfigTool.exe                  
+SQL Server 2019 Installation Center (64-bit)                 {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft SQL Server\150\Setup Bootstrap\SQL2019\x64\LandingPage.exe                           
+SQL Server 2019 Error and Usage Reporting                    {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft SQL Server\150\Shared\SqlWtsn.exe                                                    
+SQL Server 2019 Data Quality Server Installer                {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft SQL Server\MSSQL15.SAUSQLSERVER\MSSQL\Binn\DQSInstaller.exe                          
+MuseScore 3                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\MuseScore 3\bin\MuseScore3.exe                                                                 
+MySQL Shell                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe                                                          
+MySQL Workbench 8.0 CE                                       {6D809377-6AF0-444B-8957-A3773F02200E}\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe                                                   
+Notepad++                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\Notepad++\notepad++.exe                                                                        
+GeForce Experience                                           {6D809377-6AF0-444B-8957-A3773F02200E}\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe                     
+OpenBoard                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\OpenBoard\OpenBoard.exe                                                                        
+Uninstall OpenBoard                                          {6D809377-6AF0-444B-8957-A3773F02200E}\OpenBoard\unins000.exe                                                                         
+OpenShot Video Editor                                        {6D809377-6AF0-444B-8957-A3773F02200E}\OpenShot Video Editor\openshot-qt.exe                                                          
+User manual (PDF, English)                                   {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\doc\UserManual.pdf                                                           
+License (English)                                            {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\License_en_US.rtf                                                            
+User manual (CHM, English)                                   {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.chm                                                               
+Oracle VM VirtualBox                                         {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.exe                                                               
+PureRef                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\PureRef\PureRef.exe                                                                            
+Uninstall                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\PureRef\uninstall.exe                                                                          
+Pageant                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\pageant.exe                                                                              
+PSFTP                                                        {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\psftp.exe                                                                                
+PuTTY Manual                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\putty.chm                                                                                
+PuTTYgen                                                     {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\puttygen.exe                                                                             
+PuTTY Web Site                                               {6D809377-6AF0-444B-8957-A3773F02200E}\PuTTY\website.url                                                                              
+License                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\RapidTyping 5\License.txt                                                                      
+Help                                                         {6D809377-6AF0-444B-8957-A3773F02200E}\RapidTyping 5\RapidTyping.chm                                                                  
+RapidTyping 5                                                {6D809377-6AF0-444B-8957-A3773F02200E}\RapidTyping 5\RapidTyping.exe                                                                  
+Readme                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\RapidTyping 5\Readme.txt                                                                       
+REAPER EULA                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\REAPER (x64)\EULA.txt                                                                          
+ReaMote Server (x64)                                         {6D809377-6AF0-444B-8957-A3773F02200E}\REAPER (x64)\reamote.exe                                                                       
+REAPER (x64)                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\REAPER (x64)\reaper.exe                                                                        
+Uninstall REAPER (x64)                                       {6D809377-6AF0-444B-8957-A3773F02200E}\REAPER (x64)\Uninstall.exe                                                                     
+Whatsnew.txt                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\REAPER (x64)\whatsnew.txt                                                                      
+Rockstar Games Launcher                                      {6D809377-6AF0-444B-8957-A3773F02200E}\Rockstar Games\Launcher\LauncherPatcher.exe                                                    
+Snap Camera                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\Snap Inc\Snap Camera\Snap Camera.exe                                                           
+TestProject Agent                                            {6D809377-6AF0-444B-8957-A3773F02200E}\TestProject Agent\TestProjectAgent.exe                                                         
+Uninstall TestProject Agent                                  {6D809377-6AF0-444B-8957-A3773F02200E}\TestProject Agent\uninstall.exe                                                                
+Notepad2e                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\TortoiseGit\bin\notepad2.exe                                                                   
+Pageant                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\TortoiseGit\bin\pageant.exe                                                                    
+PuTTYgen                                                     {6D809377-6AF0-444B-8957-A3773F02200E}\TortoiseGit\bin\puttygen.exe                                                                   
+TortoiseGitBlame                                             {6D809377-6AF0-444B-8957-A3773F02200E}\TortoiseGit\bin\TortoiseGitBlame.exe                                                           
+TortoiseGitIDiff                                             {6D809377-6AF0-444B-8957-A3773F02200E}\TortoiseGit\bin\TortoiseGitIDiff.exe                                                           
+TortoiseGitMerge                                             {6D809377-6AF0-444B-8957-A3773F02200E}\TortoiseGit\bin\TortoiseGitMerge.exe                                                           
+Monitor vJoy                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\vJoy\x64\JoyMonitor.exe                                                                        
+Configure vJoy                                               {6D809377-6AF0-444B-8957-A3773F02200E}\vJoy\x64\vJoyConf.exe                                                                          
+vJoy Feeder (Demo)                                           {6D809377-6AF0-444B-8957-A3773F02200E}\vJoy\x64\vJoyFeeder.exe                                                                        
+vJoy Device List                                             {6D809377-6AF0-444B-8957-A3773F02200E}\vJoy\x64\vJoyList.exe                                                                          
+WordPad                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\Windows NT\Accessories\wordpad.exe                                                             
+Console RAR manual                                           {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\Rar.txt                                                                                 
+What is new in the latest version                            {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\WhatsNew.txt                                                                            
+WinRAR help                                                  {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\WinRAR.chm                                                                              
+WinRAR                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\WinRAR.exe                                                                              
+Adobe Update Management Tool                                 {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Adobe\Update Management Tool\umt.exe                                                           
+calibre - E-book management                                  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Calibre2\calibre.exe                                                                           
+Edit E-book                                                  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Calibre2\ebook-edit.exe                                                                        
+E-book viewer                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Calibre2\ebook-viewer.exe                                                                      
+LRF viewer                                                   {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Calibre2\lrfviewer.exe                                                                         
+jucheck                                                      {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Common Files\Java\Java Update\jucheck.exe                                                      
+KVMS Pro                                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\CP Plus\KVMS Pro\KVMS Pro\KVMS Pro.exe                                                         
+PC-NVR                                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\CP Plus\KVMS Pro\PC-NVR\PC-NVR.exe                                                             
+eLicenser Control Center                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\eLicenser\eLCC\eLCC.exe                                                                        
+Release Notes                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\eLicenser\Release Notes eLC.rtf                                                                
+Epic Games Launcher                                          {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe                                
+AVIFix                                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\AVIFix.exe                                                                    
+AVIMux                                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\AVIMux.exe                                                                    
+Dxtory                                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\Dxtory.exe                                                                    
+Dxtory Video Setting                                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\DxtoryVideoSetting.exe                                                        
+EULA.txt                                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\EULA_en.txt                                                                   
+License Register                                             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\LicReg.exe                                                                    
+RawCapConv                                                   {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\RawCapConv.exe                                                                
+readme.txt                                                   {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ExKode\Dxtory2.0\readme.txt                                                                    
+GM320 RGB                                                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\GM320 RGB\GM320 RGB Setup.exe                                                                  
+Uninstall LAV Filters                                        {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\LAV Filters\unins000.exe                                                                       
+Legion Arena                                                 {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Lenovo\Legion Arena\Legion Arena.exe                                                           
+System Update                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Lenovo\System Update\tvsu.exe                                                                  
+Database Engine Tuning Advisor 18                            {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\DTASHELL.EXE                                 
+Analysis Services Deployment Wizard 18                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\IDE\Microsoft.AnalysisServices.Deployment.exe
+Microsoft SQL Server Management Studio 18                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\IDE\Ssms.exe                                 
+SQL Server Profiler 18                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\PROFILER.EXE                                 
+SQL Server 2019 Import and Export Data (32-bit)              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server\150\DTS\Binn\DTSWizard.exe                                                
+EULA                                                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Visual Studio Tools for Unity\16.0\EULA.rtf                                          
+ChangeLog                                                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MySQL\Connector NET 8.0\CHANGES                                                                
+Documentation                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MySQL\Connector NET 8.0\Documentation\ConnectorNET.chm                                         
+Release Notes                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MySQL\Connector NET 8.0\Release Notes.txt                                                      
+ChangeLog                                                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MySQL\MySQL for Visual Studio 1.2\CHANGES                                                      
+Documentation                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MySQL\MySQL for Visual Studio 1.2\Documentation\MySql.Data.chm                                 
+Release Notes                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MySQL\MySQL for Visual Studio 1.2\Release Notes.txt                                            
+Nmap - Zenmap GUI                                            {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Nmap\zenmap.exe                                                                                
+SQLGate for PostgreSQL                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\SQLGate\SQLGate for PostgreSQL Developer\SQLGate.exe                                           
+SQLGate Homepage                                             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\SQLGate\SQLGate for PostgreSQL Developer\SQLGate.url                                           
+Steam                                                        {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\Steam.exe                                                                                
+Twitch Chat Overlay                                          {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Twitch Chat Overlay\TransparentTwitchChatWPF.exe                                               
+UltraISO Revision History                                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\UltraISO\History.txt                                                                           
+UltraISO Readme                                              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\UltraISO\Readme.txt                                                                            
+UltraISO Help                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\UltraISO\ultraiso.chm                                                                          
+UltraISO                                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\UltraISO\UltraISO.exe                                                                          
+UPDF                                                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\UPDF\UPDF.exe                                                                                  
+Windows App Cert Kit                                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\App Certification Kit\appcertui.exe                                            
+Documentation for Desktop Apps                               {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\Shortcuts\DesktopDevCenterLearn.url                                            
+Samples for Desktop Apps                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\Shortcuts\DesktopDevCenterSamples.url                                          
+Tools for Desktop Apps                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\Shortcuts\DesktopDevCenterToolsDocumentation.url                               
+Documentation for Windows Store Apps                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\Shortcuts\WindowsStoreAppDevCenterLearn.url                                    
+Samples for Windows Store Apps                               {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\Shortcuts\WindowsStoreAppDevCenterSamples.url                                  
+Tools for Windows Store Apps                                 {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\Shortcuts\WindowsStoreAppDevCenterToolsDocumentation.url                       
+WinSCP                                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\WinSCP\WinSCP.exe                                                                              
+Application Verifier (WOW)                                   {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\appverif.exe                                                                                   
+ODBC Data Sources (32-bit)                                   {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\odbcad32.exe                                                                                   
+Windows PowerShell (x86)                                     {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\powershell.exe                                                          
+Windows PowerShell ISE (x86)                                 {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\PowerShell_ISE.exe                                                      
+Registry Editor                                              {F38BF404-1D43-42F2-9305-67DE0B28FC23}\regedit.exe                                                                                    
+LinkedIn                                                     7EE7776C.LinkedInforWindows_w1wdnht996qgy!App                                                                                         
+Print 3D                                                     Microsoft.Print3D_8wekyb3d8bbwe!App                                                                                                   
+Dolby Atmos for Gaming                                       DolbyLaboratories.DolbyAtmosforGaming_rz1tebttyb220!App                                                                               
+Realtek Audio Console                                        RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj!App                                                                        
+Notification Manager for Adobe Creative Cloud                AdobeNotificationClient_enpm4xejd91yc!App                                                                                             
+Intel? Graphics Control Panel                                AppUp.IntelGraphicsControlPanel_8j3eq9eme6ctt!Intel.GraphicsControlPanel                                                              
+Lenovo Smart Widget                                          Lenovo.LenovoSmartWidget_y6rcszpnqk4gt!LenovoSmartWidget                                                                              
+Mixed Reality Portal                                         Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App                                                                                       
+Settings                                                     windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel                                                   
+Notification Manager for Acrobat Reader                      ReaderNotificationClient_e1rzdqpraam7r!App                                                                                            
+Speedtest                                                    Ookla.SpeedtestbyOokla_43tkc6nmykmb6!App                                                                                              
+Maps                                                         Microsoft.WindowsMaps_8wekyb3d8bbwe!App                                                                                               
+Feedback Hub                                                 Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App                                                                                        
+Family                                                       MicrosoftCorporationII.MicrosoftFamily_8wekyb3d8bbwe!Family                                                                           
+Cortana                                                      Microsoft.549981C3F5F10_8wekyb3d8bbwe!App                                                                                             
+Angry Birds 2                                                1ED5AEA5.4160926B82DB_p2gbknwb5d8r2!App                                                                                               
+Mail                                                         microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail                                                          
+Calendar                                                     microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar                                                      
+Lenovo Hotkeys                                               E0469640.LenovoUtility_5grkq8ppsgwt4!LenovoUtility                                                                                    
+Intel? Graphics Command Center                               AppUp.IntelGraphicsExperience_8j3eq9eme6ctt!App                                                                                       
+Ubuntu 20.04 on Windows                                      CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc!ubuntu2004                                                                   
+News                                                         Microsoft.BingNews_8wekyb3d8bbwe!AppexNews                                                                                            
+Xbox Console Companion                                       Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp                                                                                     
+Snipping Tool                                                Microsoft.ScreenSketch_8wekyb3d8bbwe!App                                                                                              
+Sticky Notes                                                 Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App                                                                                      
+Get Help                                                     Microsoft.GetHelp_8wekyb3d8bbwe!App                                                                                                   
+Photos                                                       Microsoft.Windows.Photos_8wekyb3d8bbwe!App                                                                                            
+Video editor                                                 Microsoft.Windows.Photos_8wekyb3d8bbwe!SecondaryEntry                                                                                 
+Get Started                                                  MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WebExperienceHost                                                                           
+Windows Security                                             Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI                                                                                       
+Microsoft Store                                              Microsoft.WindowsStore_8wekyb3d8bbwe!App                                                                                              
+Microsoft Whiteboard                                         Microsoft.Whiteboard_8wekyb3d8bbwe!Whiteboard                                                                                         
+Lenovo Vantage                                               E046963F.LenovoCompanion_k1h2ywk1493x8!App                                                                                            
+OneNote for Windows 10                                       Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim                                                                            
+Quick Assist                                                 MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe!App                                                                                  
+Tips                                                         Microsoft.Getstarted_8wekyb3d8bbwe!App                                                                                                
+Picsart - Photo Studio                                       2FE3CB00.PICSART-PHOTOSTUDIO_crhqpqs3x1ygc!App                                                                                        
+Solitaire Collection                                         Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App                                                                              
+Weather                                                      Microsoft.BingWeather_8wekyb3d8bbwe!App                                                                                               
+Adobe Photoshop Express                                      AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga!App                                                                      
+Xbox                                                         Microsoft.GamingApp_8wekyb3d8bbwe!Microsoft.Xbox.App                                                                                  
+Sound Recorder                                               Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App                                                                                      
+Films & TV                                                   Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo                                                                                 
+Calculator                                                   Microsoft.WindowsCalculator_8wekyb3d8bbwe!App                                                                                         
+Clock                                                        Microsoft.WindowsAlarms_8wekyb3d8bbwe!App                                                                                             
+Notepad                                                      Microsoft.WindowsNotepad_8wekyb3d8bbwe!App                                                                                            
+Paint                                                        Microsoft.Paint_8wekyb3d8bbwe!App                                                                                                     
+Media Player                                                 Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic                                                                                 
+Office                                                       Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub                                                               
+Clipchamp ? Video Editor                                     Clipchamp.Clipchamp_yxz26nhyzhsrt!App                                                                                                 
+iTunes                                                       AppleInc.iTunes_nzyj5cx40ttqa!iTunes                                                                                                  
+Terminal                                                     Microsoft.WindowsTerminal_8wekyb3d8bbwe!App                                                                                           
+Candy Crush Friends                                          king.com.CandyCrushFriends_kgqvnymyfvs32!App                                                                                          
+Microsoft To Do                                              Microsoft.Todos_8wekyb3d8bbwe!App                                                                                                     
+Power Automate                                               Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe!PAD.Console                                                                              
+Camera                                                       Microsoft.WindowsCamera_8wekyb3d8bbwe!App                                                                                             
+Candy Crush Saga                                             king.com.CandyCrushSaga_kgqvnymyfvs32!App                                                                                             
+Access                                                       Microsoft.Office.Desktop_8wekyb3d8bbwe!Access                                                                                         
+Outlook                                                      Microsoft.Office.Desktop_8wekyb3d8bbwe!Outlook                                                                                        
+PowerPoint                                                   Microsoft.Office.Desktop_8wekyb3d8bbwe!PowerPoint                                                                                     
+Word                                                         Microsoft.Office.Desktop_8wekyb3d8bbwe!Word                                                                                           
+Publisher                                                    Microsoft.Office.Desktop_8wekyb3d8bbwe!Publisher                                                                                      
+Excel                                                        Microsoft.Office.Desktop_8wekyb3d8bbwe!Excel                                                                                          
+Paint 3D                                                     Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint                                                                                     
+Phone Link                                                   Microsoft.YourPhone_8wekyb3d8bbwe!App                                                                                                 
+NVIDIA Control Panel                                         NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj!NVIDIACorp.NVIDIAControlPanel                                                             
+Xbox Game Bar                                                Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App                                                                                         
+WhatsApp                                                     5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App                                                                                            
+Microsoft Teams                                              MicrosoftTeams_8wekyb3d8bbwe!MicrosoftTeams                                                                                           
+
+
