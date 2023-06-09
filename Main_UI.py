@@ -1,4 +1,6 @@
 # imports
+
+import json
 import speech_recognition as sr
 import wikipedia
 import win32com.client
@@ -7,6 +9,7 @@ import AppOpener
 import datetime
 import textwrap
 import requests
+import time
 
 # speaker setup
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
@@ -21,8 +24,22 @@ sites = [
 
 apps = [
     "spotify",
-    "discord"
+    "discord",
+    "pycharm",
+    "github",
+    "file explorer"
 ]
+
+
+def jokes(f = r"https://official-joke-api.appspot.com/random_joke"):
+    data = requests.get(f)
+    tt = json.loads(data.text)
+    for i in tt:
+        print(i["setup"])
+        say(i["setup"])
+        time.sleep(2)
+        print(i["punchline"], "\n")
+        say(i["punchline"])
 
 
 
@@ -90,6 +107,10 @@ def main():
         elif text.lower() == 'speak english':
             language = 'en-us'
 
+        elif text.lower() == 'tell a joke':
+            jokes()
+
+
         elif "what is your name" in text.lower():
             say("my name is deskFlare AI")
 
@@ -111,6 +132,7 @@ def main():
             say("I am a bot, i am not a human")
 
         elif "search for" in text.lower():
+            say("searching sir")
             buffer = text.lower().partition('search for')
             q = buffer[2]
             webbrowser.open(f"https://www.google.com/search?q={q}")
