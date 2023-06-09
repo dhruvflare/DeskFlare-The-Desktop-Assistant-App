@@ -25,8 +25,9 @@ sites = [
 apps = [
     "spotify",
     "discord",
+    "pycharm community edition",
     "pycharm",
-    "github",
+    "github desktop",
     "file explorer"
 ]
 
@@ -34,12 +35,11 @@ apps = [
 def jokes(f = r"https://official-joke-api.appspot.com/random_joke"):
     data = requests.get(f)
     tt = json.loads(data.text)
-    for i in tt:
-        print(i["setup"])
-        say(i["setup"])
-        time.sleep(2)
-        print(i["punchline"], "\n")
-        say(i["punchline"])
+    print(tt["setup"])
+    say(tt["setup"])
+    time.sleep(2)
+    print(tt["punchline"], "\n")
+    say(tt["punchline"])
 
 
 
@@ -101,13 +101,17 @@ def main():
         elif text.lower() == "exit":
             break
 
+        elif "say" in text.lower():
+            buffer = text.lower().partition('say')
+            say(buffer[2])
+
         elif text.lower() == 'speak hindi':
             language = 'en-in'
 
         elif text.lower() == 'speak english':
             language = 'en-us'
 
-        elif text.lower() == 'tell a joke':
+        elif 'tell me a joke' in text.lower():
             jokes()
 
 
@@ -147,7 +151,7 @@ def main():
             for app in apps:
                 if f"open {app}" in text.lower():
                     say(f"opening {app} sir")
-                    AppOpener.open(app)
+                    AppOpener.open(app, match_closest=True)
 
         elif "the time" in text.lower():
             timeval = datetime.datetime.now().strftime("%H:%M")
