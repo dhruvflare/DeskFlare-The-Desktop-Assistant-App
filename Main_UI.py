@@ -76,7 +76,7 @@ def say(text):
 def take_command(lan='en-us'):
     r = sr.Recognizer()
     with sr.Microphone() as source:
-        r.pause_threshold = 0.8
+        r.pause_threshold = 0.5
         audio = r.listen(source)
         try:
             query = r.recognize_google(audio, language=lan)
@@ -89,97 +89,102 @@ def take_command(lan='en-us'):
 
 
 def main():
-    say('hello, i am DeskFlare AI')
-    text = ''
+    print('hello, i am DeskFlare AI, you can call me DF.')
+    say('hello, i am DeskFlare AI, you can call me DF.')
+    text = ' '
     language = 'en-us'
     while True:
 
-        if text.lower() == " ":
-            text = "unrecognised"
-            continue
+        checker = text.lower().strip()
 
-        elif text.lower() == "exit":
-            break
-
-        elif "say" in text.lower():
-            buffer = text.lower().partition('say')
-            say(buffer[2])
-
-        elif text.lower() == 'speak hindi':
-            language = 'en-in'
-
-        elif text.lower() == 'speak english':
-            language = 'en-us'
-
-        elif 'tell me a joke' in text.lower():
-            jokes()
+        if checker.startswith("desk player") or checker.startswith("df") or checker.startswith("hey dear")\
+                or checker.startswith("bf"):
 
 
-        elif "what is your name" in text.lower():
-            say("my name is deskFlare AI")
 
-        elif "what is your age" in text.lower():
-            say("I am a bot, i am not a human")
+            if "say" in text.lower():
+                buffer = text.lower().partition('say')
+                say(buffer[2])
 
-        elif "current weather" in text.lower():
-            get_weather()
+            elif text.lower() == 'speak hindi':
+                language = 'en-in'
 
-        elif "weather in" in text.lower():
-            buffer = text.lower().partition('weather in')
-            q = buffer[2]
-            get_weather(location=q)
+            elif text.lower() == 'speak english':
+                language = 'en-us'
 
-        elif "chance of rain" in text.lower():
-            get_precipitation_chance()
+            elif 'tell me' in text.lower() and 'joke' in text.lower():
+                jokes()
 
-        elif "what is your gender" in text.lower() or "what is your profession" in text.lower():
-            say("I am a bot, i am not a human")
 
-        elif "search for" in text.lower():
-            say("searching sir")
-            buffer = text.lower().partition('search for')
-            q = buffer[2]
-            webbrowser.open(f"https://www.google.com/search?q={q}")
+            elif "what is your name" in text.lower():
+                say("my name is deskFlare AI")
 
-        elif "open" in text.lower():
+            elif "what is your age" in text.lower():
+                say("I am a bot, i am not a human")
 
-            for site in sites:
-                if f"open {site[0]}" in text.lower():
-                    say(f"opening {site[0]} sir")
-                    webbrowser.open(site[1])
+            elif "current weather" in text.lower():
+                get_weather()
 
-            for app in apps:
-                if f"open {app}" in text.lower():
-                    say(f"opening {app} sir")
-                    AppOpener.open(app, match_closest=True)
-
-        elif "the time" in text.lower():
-            timeval = datetime.datetime.now().strftime("%H:%M")
-            say(f"sir, the time is {timeval}")
-
-        elif "what is" in text.lower():
-            try:
-                buffer = text.lower().partition('what is')
+            elif "weather in" in text.lower():
+                buffer = text.lower().partition('weather in')
                 q = buffer[2]
-                wiki = wikipedia.summary(q, sentences=5)
-                wrapper = textwrap.TextWrapper(width=70)
-                string = wrapper.fill(text=wiki)
-                print(string)
-                say(wikipedia.summary(q, sentences=2))
-            except Exception:
-                say("sorry, i could not find anything")
+                get_weather(location=q)
 
-        elif "who is" in text.lower():
-            try:
-                buffer = text.lower().partition('who is')
+            elif "chance of rain" in text.lower():
+                get_precipitation_chance()
+
+            elif "what is your gender" in text.lower() or "what is your profession" in text.lower():
+                say("I am a bot, i am not a human")
+
+            elif "search for" in text.lower():
+                say("searching sir")
+                buffer = text.lower().partition('search for')
                 q = buffer[2]
-                wiki = wikipedia.summary(q, sentences=5)
-                wrapper = textwrap.TextWrapper(width=70)
-                string = wrapper.fill(text=wiki)
-                print(string)
-                say(wikipedia.summary(q, sentences=2))
-            except Exception:
-                say("sorry, i could not find anything")
+                webbrowser.open(f"https://www.google.com/search?q={q}")
+
+            elif "open" in text.lower():
+
+                for site in sites:
+                    if f"open {site[0]}" in text.lower():
+                        say(f"opening {site[0]} sir")
+                        webbrowser.open(site[1])
+
+                for app in apps:
+                    if f"open {app}" in text.lower():
+                        say(f"opening {app} sir")
+                        AppOpener.open(app, match_closest=True)
+
+            elif "the time" in text.lower():
+                timeval = datetime.datetime.now().strftime("%H:%M")
+                say(f"sir, the time is {timeval}")
+
+            elif "what is" in text.lower():
+                try:
+                    buffer = text.lower().partition('what is')
+                    q = buffer[2]
+                    wiki = wikipedia.summary(q, sentences=5)
+                    wrapper = textwrap.TextWrapper(width=70)
+                    string = wrapper.fill(text=wiki)
+                    print(string)
+                    say(wikipedia.summary(q, sentences=2))
+                except Exception:
+                    say("sorry, i could not find anything")
+
+            elif "who is" in text.lower():
+                try:
+                    buffer = text.lower().partition('who is')
+                    q = buffer[2]
+                    wiki = wikipedia.summary(q, sentences=5)
+                    wrapper = textwrap.TextWrapper(width=70)
+                    string = wrapper.fill(text=wiki)
+                    print(string)
+                    say(wikipedia.summary(q, sentences=2))
+                except Exception:
+                    say("sorry, i could not find anything")
+
+            elif  "exit" in text.lower():
+                say("exiting")
+                break
 
 
 
