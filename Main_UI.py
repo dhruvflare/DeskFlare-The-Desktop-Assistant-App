@@ -22,14 +22,7 @@ sites = [
     ["chatgpt", "https://chat.openai.com/"]
 ]
 
-apps = [
-    "spotify",
-    "discord",
-    "pycharm community edition",
-    "pycharm",
-    "github desktop",
-    "file explorer"
-]
+apps = list(AppOpener.give_appnames())
 
 
 def jokes(f = r"https://official-joke-api.appspot.com/random_joke"):
@@ -45,7 +38,7 @@ def jokes(f = r"https://official-joke-api.appspot.com/random_joke"):
 
 def get_weather(location = "New Delhi, Delhi"):
     params = {
-        'access_key': '864b4eae76492fc120c2709e2bfa112a',
+        'access_key': '',
         'query': location
     }
     api_result = requests.get('http://api.weatherstack.com/current', params)
