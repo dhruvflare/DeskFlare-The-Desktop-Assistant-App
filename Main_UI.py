@@ -19,7 +19,7 @@ sites = [
     ["youtube", "https://www.youtube.com/"],
     ["google", "https://www.google.com/"],
     ["mail", "https://mail.google.com/mail/u/0/#inbox"],
-    ["chatgpt", "https://chat.openai.com/"]
+    ["chatgpt", "https://chat.openai.com/"],
 ]
 
 apps = list(AppOpener.give_appnames())
@@ -91,7 +91,7 @@ def main():
         checker = text.lower().strip()
 
         if checker.startswith("desk player") or checker.startswith("df") or checker.startswith("hey dear")\
-                or checker.startswith("bf"):
+                or checker.startswith("bf") or checker.startswith("desk Flair"):
 
 
 
